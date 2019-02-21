@@ -1,0 +1,15 @@
+.card{
+    border: 1px solid grey;
+    padding: 5px;
+    margin: 5px;
+    /* width: 250px; */
+    max-width: 300px;
+    max-height: 400px;
+    display: inline-block;
+    text-align: center;
+}
+
+.avatar
+{
+    width: 200px;
+}
